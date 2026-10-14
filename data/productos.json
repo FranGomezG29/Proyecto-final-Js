@@ -1,0 +1,15 @@
+[
+  { "id": 1, "nombre": "Apadrinar a Luna", "descripcion": "Perra, 3 años, cuidados veterinarios estándar", "precio": 2500, "categoria": "apadrinamiento", "imagen": "luna.avif" },
+  { "id": 2, "nombre": "Apadrinar a Nina", "descripcion": "Gata, 4 meses, control de crecimiento y vacunas", "precio": 2000, "categoria": "apadrinamiento", "imagen": "nina.avif" },
+  { "id": 3, "nombre": "Apadrinar a Milo", "descripcion": "Gato, 4 años, tratamiento renal especial", "precio": 3200, "categoria": "apadrinamiento", "imagen": "milo.avif" },
+  { "id": 4, "nombre": "Apadrinar a Tango", "descripcion": "Perro, 5 años, raza grande, mayor consumo de alimento", "precio": 3500, "categoria": "apadrinamiento", "imagen": "tango.avif" },
+  { "id": 5, "nombre": "Apadrinar a Olivia", "descripcion": "Gata, 1 año, cuidados básicos", "precio": 2000, "categoria": "apadrinamiento", "imagen": "olivia.avif" },
+  { "id": 6, "nombre": "Apadrinar a Roco", "descripcion": "Cachorro, 8 meses, plan de vacunación completo", "precio": 2800, "categoria": "apadrinamiento", "imagen": "roco.avif" },
+  { "id": 7, "nombre": "Alimento balanceado para perro 10kg", "descripcion": "Receta de pollo y arroz integral", "precio": 8500, "categoria": "insumo", "imagen": "alimento-perro.jpg" },
+  { "id": 8, "nombre": "Alimento balanceado para gato 10kg", "descripcion": "Receta de salmón y pato", "precio": 7200, "categoria": "insumo", "imagen": "alimento-gato.jpg" },
+  { "id": 9, "nombre": "Poncho de abrigo", "descripcion": "Tejido grueso, varios colores", "precio": 4200, "categoria": "insumo", "imagen": "poncho.jpg" },
+  { "id": 10, "nombre": "Plato de comida y agua", "descripcion": "Acero inoxidable, doble compartimento", "precio": 1800, "categoria": "insumo", "imagen": "plato.jpg" },
+  { "id": 11, "nombre": "Manta acolchada", "descripcion": "Estampado de animales, ideal para caniles", "precio": 3000, "categoria": "insumo", "imagen": "manta.jpg" },
+  { "id": 12, "nombre": "Collar antipulgas", "descripcion": "Silicona, ajustable", "precio": 2200, "categoria": "insumo", "imagen": "collar-antipulgas.jpg" },
+  { "id": 13, "nombre": "Cama para refugio", "descripcion": "Acolchada con almohadón desmontable", "precio": 9500, "categoria": "insumo", "imagen": "cama.jpg" }
+]

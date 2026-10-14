@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cuore | Apadrina un animal</title>
+    <title>Cuore | Apadriná o doná</title>
     <script src="./js/main.js" defer></script>
     <link rel="icon" type="image/webp" href="./assets/img/logo.webp">
     <link rel="stylesheet" href="./css/style.css">
@@ -18,24 +18,34 @@
         <nav>
             <a href="index.html" class="logo">Cuore</a>
             <ul class="nav-links">
-                <li><a href="index.html">Animales</a></li>
-                <li><a href="./pages/carrito.html">Mi apadrinamiento</a></li>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="./pages/carrito.html">Mi carrito</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         <section class="hero">
-            <h1>Apadriná a un animal del refugio</h1>
-            <p>Elegí uno o más animales y colaborá con una donación mensual para su cuidado.</p>
+            <h1>Ayudá al refugio Cuore</h1>
+            <p>Apadriná a un animal por mes o doná insumos para su cuidado diario.</p>
         </section>
 
         <section id="seccion-buscador">
-            <input type="text" id="input-buscar" placeholder="Buscar animal por nombre...">
+            <input type="text" id="input-buscar" placeholder="Buscar por nombre...">
         </section>
 
-        <section id="contenedor-animales">
-            <p id="cargando">Cargando animales...</p>
+        <section class="seccion-catalogo">
+            <h2>Apadriná un animal</h2>
+            <div id="contenedor-apadrinamiento">
+                <p id="cargando-apadrinamiento">Cargando animales...</p>
+            </div>
+        </section>
+
+        <section class="seccion-catalogo">
+            <h2>Doná insumos para el refugio</h2>
+            <div id="contenedor-insumos">
+                <p id="cargando-insumos">Cargando insumos...</p>
+            </div>
         </section>
     </main>
 
@@ -43,7 +53,6 @@
         <p>© 2026 Cuore. Refugio de animales.</p>
     </footer>
 
-    
 </body>
 
 </html>
